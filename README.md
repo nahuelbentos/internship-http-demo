@@ -11,7 +11,16 @@
 > Info de la charla:
 >
 > https://restfulapi.net/http-methods/#summary
->
+> 
+> https://developer.mozilla.org/es/docs/Web/HTTP/Overview
+> 
+> https://developer.mozilla.org/es/docs/Web/HTTP
+> 
+> https://developer.mozilla.org/es/docs/Web/HTTP/Headers
+>   Content-type, Authorization, personalizados (X-Algo)
+>   
+> https://developer.mozilla.org/es/docs/Web/HTTP/Status
+>   Ver los mas conocidos y hablar del 418
 
 
 
