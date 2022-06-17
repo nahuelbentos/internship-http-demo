@@ -6,7 +6,7 @@
 
 > La idea de este proyecto es que sirva de ayuda para dar un breve pantallazo de HTTP, sus verbos y como realizar http requests.
 >
-> Estaremos utilizando https://jsonplaceholder.typicode.com/ para realizar las requests. Por mas info de esta API hacer click [aqui](https://jsonplaceholder.typicode.com/guide/https://).
+> Estaremos utilizando https://jsonplaceholder.typicode.com/ para realizar las requests. Por mas info de esta API hacer click [aqui](https://jsonplaceholder.typicode.com/guide/).
 >
 > Info de la charla:
 >
